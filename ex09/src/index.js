@@ -6,10 +6,12 @@ function main(){
 
     firstNum *= 9;
     secondNum /= 5;
-    thirdNum *=10;
+    thirdNum *= 10;
 
     return {
-        firstNum, secondNum, thirdNum
+        firstNum,
+        secondNum, 
+        thirdNum
     };
 
 }
