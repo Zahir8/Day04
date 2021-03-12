@@ -4,7 +4,7 @@ function main(){
 
     myRes++;
 
-    return myRes
+    return myRes;
 
 }
 
