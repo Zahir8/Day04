@@ -9,7 +9,9 @@ function main(){
     myZ -= 20;
 
     return {
-        myX, myY, myZ
+        myX,
+        myY,
+        myZ
     };
 
 }
